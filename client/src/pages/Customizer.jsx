@@ -55,7 +55,7 @@ const Customizer = () => {
     try {
       setGeneratingImg(true)
       const response = await fetch(
-        'https://project-threejs-ai-9apt.onrender.com/',
+        'https://project-threejs-ai-gi78.onrender.com',
         {
           method: 'POST',
           headers: {
